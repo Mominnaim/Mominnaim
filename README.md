@@ -49,7 +49,7 @@ Here are some of my crafty projects that I built with a team of Computer Science
 #### 🌐 [Ismaili Professional Network](https://ipnonline.net/)  
 *A professional networking platform where I built scalable, responsive front-end interfaces using AngularJS and Tailwind CSS.*  
 **Tech Stack:** AngularJS, TypeScript, TailwindCSS  
-![IPN Screenshot](public/IpnOnline.png)
+![IPN Screenshot](public/IPNONLINENEW.png)
 
 ---
 
