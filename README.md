@@ -26,11 +26,13 @@ Naim Momin is a versatile software developer with a strong foundation in full-st
 
 </div>
 
+<br><br>
 
-<div align="center">
 ### 🚀 Featured Projects
 
 Here are some of my crafty projects that I built with a team of Computer Science nerds.
+
+<div align="center">
 
 ---
 
