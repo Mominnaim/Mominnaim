@@ -26,6 +26,8 @@ Naim Momin is a versatile software developer with a strong foundation in full-st
 
 </div>
 
+
+<div align="center">
 ### 🚀 Featured Projects
 
 Here are some of my crafty projects that I built with a team of Computer Science nerds.
@@ -52,6 +54,8 @@ Here are some of my crafty projects that I built with a team of Computer Science
 ![IPN Screenshot](public/ipnonew.png)
 
 ---
+
+</div>
 
 <!--
 **Mominnaim/Mominnaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
