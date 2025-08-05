@@ -55,9 +55,24 @@ Here are some of my crafty projects that I built with a team of Computer Science
 **Tech Stack:** AngularJS, TypeScript, TailwindCSS  
 ![IPN Screenshot](public/ipnonew.png)
 
----
 
 </div>
+
+<br><br>
+
+### 📊 GitHub Stats
+#
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mominnaim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mominnaim&layout=compact&theme=tokyonight" height="200"/>
+</div>
+
+
+
+
+
+
 
 <!--
 **Mominnaim/Mominnaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
